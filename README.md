@@ -1,6 +1,6 @@
 Weather Prediction Group Project (LSTM vs CNN)
 
-We wrote the code to be easy to run. Basically it is a automated pipeline that does everything from data prep to visualization.
+I wrote the code to be easy to run. Basically it is a automated pipeline that does everything from data prep to visualization.
 
 What You Need (Libraries)
 To get this running, you need a standard Python enviroment.
@@ -23,7 +23,7 @@ Write that if we use the code in colab then upload the jena_csv file in that
 Or if you have both (the python script and the jena_csv file) in the same folder and make sure that your working directory and script are in same folder, in this case you don’t really need to need to provide the full path, just the filename ‘jena_csv…’ is enough
 
 How to Run It
-We designed this script so you dont need to run cell-by-cell.
+this script is designed script so you dont need to run cell-by-cell.
 
 If using Spyder (Recommended):
 
